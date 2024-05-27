@@ -4,6 +4,8 @@ main:
     url: https://sk4cks.github.io
   - title: "Category"
     url: /categories/
+  - title: "Search"
+    url: /search/
 
 sidebar-category:
   - title: "JAVA"
