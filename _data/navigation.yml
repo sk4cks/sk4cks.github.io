@@ -10,10 +10,10 @@ main:
 sidebar-category:
   - title: "JAVA"
     children:
-      - title: "SpringBoot"
-      - url: /java/springBoot/
+      - title: "Spring Boot"
+        url: /java/springBoot/
       - title: "Java Basic"
-      - url: /java/basic/
+        url: /java/basic/
   - title: "JavaScript"
     children:
       - title: "Vanilla JS"
