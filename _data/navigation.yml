@@ -24,6 +24,9 @@ sidebar-category:
     children:
       -title: "프로그래머스"
   - title: "Git"
+    children:
+      - title: "GitLab"
+        url: /git/gitLab/
   - title: "ETC"
     url: /ETC/
 
