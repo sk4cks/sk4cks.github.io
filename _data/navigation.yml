@@ -19,6 +19,9 @@ sidebar-category:
       - title: "Vanilla JS"
       - title: "Vue.js"
   - title: "DB"
+    children:
+      - title: "Query"
+        url: /db/query/
   - title: "Servers"
   - title: "Coding Test"
     children:
