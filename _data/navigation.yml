@@ -23,6 +23,10 @@ sidebar-category:
       - title: "Query"
         url: /db/query/
   - title: "Servers"
+  - title: "Linux"
+    children:
+      - title: "Command"
+        url: /linux/command/
   - title: "Coding Test"
     children:
       -title: "프로그래머스"
