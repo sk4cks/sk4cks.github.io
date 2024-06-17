@@ -17,6 +17,7 @@ sidebar-category:
   - title: "JavaScript"
     children:
       - title: "Vanilla JS"
+        url: /js/vanilla/
       - title: "Vue.js"
   - title: "DB"
     children:
