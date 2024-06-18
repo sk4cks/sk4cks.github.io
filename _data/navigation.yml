@@ -24,6 +24,9 @@ sidebar-category:
       - title: "Query"
         url: /db/query/
   - title: "Servers"
+    children:
+      - title: "Virtual Machine"
+        url: /servers/vm/
   - title: "Linux"
     children:
       - title: "Command"
