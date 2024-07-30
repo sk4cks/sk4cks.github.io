@@ -19,6 +19,9 @@ sidebar-category:
       - title: "Vanilla JS"
         url: /js/vanilla/
       - title: "Vue.js"
+        url: /js/vue/
+      - title: "react.js"
+        url: /js/react/
   - title: "DB"
     children:
       - title: "Query"
