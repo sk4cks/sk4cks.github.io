@@ -11,38 +11,49 @@ sidebar-category:
   - title: "JAVA"
     children:
       - title: "Spring Boot"
-        url: /java/springBoot/
+        url: /springBoot/
+        category: "springBoot"
       - title: "Java Basic"
-        url: /java/basic/
+        url: /javaBasic/
+        category: "javaBasic"
   - title: "JavaScript"
     children:
       - title: "Vanilla JS"
-        url: /js/vanilla/
+        url: /vanillaJs/
+        category: "vanillaJs"
       - title: "Vue.js"
-        url: /js/vue/
+        url: /vueJs/
+        category: "vueJs"
       - title: "react.js"
-        url: /js/react/
+        url: /reactJs/
+        category: "reactJs"
   - title: "DB"
     children:
       - title: "Query"
-        url: /db/query/
+        url: /query/
+        category: "query"
   - title: "Servers"
     children:
       - title: "Virtual Machine"
-        url: /servers/vm/
+        url: /virtualMachine/
+        category: "virtualMachine"
   - title: "Linux"
     children:
       - title: "Command"
-        url: /linux/command/
-  - title: "Coding Test"
-    children:
-      -title: "프로그래머스"
+        url: /command/
+        category: "command"
+  # - title: "Coding Test"
+  #   children:
+  #     - title: "프로그래머스"
+  #       url: /codingtest/programmers/
   - title: "Git"
     children:
       - title: "GitLab"
-        url: /git/gitLab/
+        url: /gitLab/
+        category: "gitLab"
   - title: "ETC"
     url: /ETC/
+    category: "ETC"
 
     # children:
     #   - title: "Category"

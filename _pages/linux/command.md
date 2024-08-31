@@ -1,11 +1,11 @@
 ---
 title: "Command"
 layout: category
-permalink: /linux/command/
+permalink: /command/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.command %}

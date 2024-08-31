@@ -1,11 +1,11 @@
 ---
 title: "GitLab"
 layout: category
-permalink: /git/gitLab/
+permalink: /gitLab/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.gitLab %}

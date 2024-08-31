@@ -1,11 +1,11 @@
 ---
 title: "Spring Boot"
 layout: category
-permalink: /java/springBoot/
+permalink: /springBoot/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.springBoot %}

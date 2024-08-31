@@ -1,11 +1,11 @@
 ---
 title: "react.js"
 layout: category
-permalink: /js/react/
+permalink: /reactJs/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.reactJs %}

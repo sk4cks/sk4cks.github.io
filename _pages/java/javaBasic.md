@@ -1,11 +1,11 @@
 ---
 title: "Java Basic"
 layout: category
-permalink: /java/basic/
+permalink: /javaBasic/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.javaBasic %}
