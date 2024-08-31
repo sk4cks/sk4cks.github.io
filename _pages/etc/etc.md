@@ -1,11 +1,11 @@
 ---
 title: "ETC"
 layout: category
-permalink: /ETC/
+permalink: /etc/
 author_profile: true
 sidebar_main: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.ETC %}

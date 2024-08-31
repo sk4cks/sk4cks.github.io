@@ -1,7 +1,7 @@
 ---
 title: "Spring Boot"
 layout: category
-permalink: /springBoot/
+permalink: /springboot/
 author_profile: true
 sidebar_main: true
 sidebar:

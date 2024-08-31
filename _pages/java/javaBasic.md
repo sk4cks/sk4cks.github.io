@@ -1,7 +1,7 @@
 ---
 title: "Java Basic"
 layout: category
-permalink: /javaBasic/
+permalink: /javabasic/
 author_profile: true
 sidebar_main: true
 sidebar:

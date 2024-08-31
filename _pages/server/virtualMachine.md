@@ -1,7 +1,7 @@
 ---
 title: "Virtual Machine"
 layout: category
-permalink: /virtualMachine/
+permalink: /virtualmachine/
 author_profile: true
 sidebar_main: true
 sidebar:

@@ -1,7 +1,7 @@
 ---
 title: "Vanilla JS"
 layout: category
-permalink: /vanillaJs/
+permalink: /vanillajs/
 author_profile: true
 sidebar_main: true
 sidebar:

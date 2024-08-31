@@ -1,7 +1,7 @@
 ---
 title: "react.js"
 layout: category
-permalink: /reactJs/
+permalink: /reactjs/
 author_profile: true
 sidebar_main: true
 sidebar:
