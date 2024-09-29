@@ -37,6 +37,9 @@ sidebar-category:
       - title: "Virtual Machine"
         url: /virtualmachine/
         category: "virtualMachine"
+      - title: "Docker"
+        url: /docker/
+        category: "docker"
   - title: "Linux"
     children:
       - title: "Command"
