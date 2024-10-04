@@ -55,8 +55,10 @@ sidebar-category:
         url: /gitlab/
         category: "gitLab"
   - title: "ETC"
-    url: /etc/
-    category: "ETC"
+    children:
+      - title: "Network"
+        url: /network/
+        category: "network"
 
     # children:
     #   - title: "Category"
