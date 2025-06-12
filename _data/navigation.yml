@@ -32,6 +32,9 @@ sidebar-category:
       - title: "Query"
         url: /query/
         category: "query"
+      - title: "DB Config"
+        url: /dbconfig/
+        category: "dbConfig"
   - title: "Servers"
     children:
       - title: "Virtual Machine"
