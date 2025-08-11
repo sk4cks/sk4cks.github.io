@@ -6865,7 +6865,7 @@ jQuery.extend( {
 		}
 	},
 
-	// Don't automatically add "px" to these possibly-unitless properties
+	// Don't automatically add "px" to these possibly-math.is-unitless properties
 	cssNumber: {
 		"animationIterationCount": true,
 		"columnCount": true,

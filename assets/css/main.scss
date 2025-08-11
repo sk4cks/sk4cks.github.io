@@ -5,5 +5,13 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@use "sass:math";
+@use "sass:color";
+@use "sass:string";
+@use "sass:list";
+@use "sass:meta";
+@use "sass:map";
+@use "sass:selector";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
